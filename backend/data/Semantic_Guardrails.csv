@@ -1,0 +1,201 @@
+text,category,action
+apa maksudnya?,ambigu,clarify
+itu gimana ya?,ambigu,clarify
+jelasin dong,ambigu,clarify
+maksudnya apa sih?,ambigu,clarify
+ini apa?,ambigu,clarify
+kok bisa?,ambigu,clarify
+gimana caranya?,ambigu,clarify
+itu kenapa?,ambigu,clarify
+kurang paham,ambigu,clarify
+coba jelasin lagi,ambigu,clarify
+bisa diperjelas?,ambigu,clarify
+tolong jelaskan,ambigu,clarify
+saya belum mengerti,ambigu,clarify
+apa maksud ayat ini?,ambigu,clarify
+itu artinya apa?,ambigu,clarify
+bisa dijelaskan lebih detail?,ambigu,clarify
+masih bingung,ambigu,clarify
+apa inti dari ini?,ambigu,clarify
+gimana maksudnya?,ambigu,clarify
+itu konteksnya apa?,ambigu,clarify
+bisa diulang?,ambigu,clarify
+tolong perjelas maksudnya,ambigu,clarify
+apa yang dimaksud?,ambigu,clarify
+jelasin secara singkat,ambigu,clarify
+kurang jelas,ambigu,clarify
+lu bodoh banget,toxic,block
+dasar tolol,toxic,block
+otak lu kosong,toxic,block
+goblok banget sih,toxic,block
+anjing lu,toxic,block
+bangsat lu,toxic,block
+lu ga guna,toxic,block
+orang kayak lu sampah,toxic,block
+tolol parah,toxic,block
+idiot banget,toxic,block
+lu bego,toxic,block
+dasar dungu,toxic,block
+lu memalukan,toxic,block
+ga ada otak,toxic,block
+manusia ga berguna,toxic,block
+lu bikin kesel,toxic,block
+ga pantes hidup,toxic,block
+mending diem aja,toxic,block
+lu nyusahin,toxic,block
+jelek banget otak lu,toxic,block
+lu payah,toxic,block
+bikin emosi,toxic,block
+lu gagal,toxic,block
+ga ada harapan,toxic,block
+lu ga penting,toxic,block
+agama itu bohong,provokatif,block
+alquran cuma dongeng,provokatif,block
+agama menyesatkan,provokatif,block
+buat apa agama,provokatif,block
+agama itu tipu daya,provokatif,block
+alquran salah,provokatif,block
+agama cuma omong kosong,provokatif,block
+ngapain percaya agama,provokatif,block
+agama bikin ribet,provokatif,block
+alquran tidak benar,provokatif,block
+agama itu palsu,provokatif,block
+agama tidak penting,provokatif,block
+alquran karangan manusia,provokatif,block
+agama hanya mitos,provokatif,block
+agama bikin konflik,provokatif,block
+agama tidak logis,provokatif,block
+agama itu ketinggalan zaman,provokatif,block
+ngapain sholat,provokatif,block
+agama itu aneh,provokatif,block
+alquran tidak relevan,provokatif,block
+agama hanya tradisi,provokatif,block
+agama itu lucu,provokatif,block
+orang beragama aneh,provokatif,block
+agama cuma buang waktu,provokatif,block
+tidak percaya kitab suci,provokatif,block
+siapa presiden indonesia?,out_of_context,block
+berapa harga emas hari ini?,out_of_context,block
+cara masak mie instan,out_of_context,block
+jadwal bola malam ini,out_of_context,block
+cuaca hari ini bagaimana?,out_of_context,block
+tutorial python dasar,out_of_context,block
+cara cepat kaya,out_of_context,block
+game terbaik 2024,out_of_context,block
+tips diet sehat,out_of_context,block
+film terbaru apa,out_of_context,block
+cara main mobile legend,out_of_context,block
+berapa kurs dolar,out_of_context,block
+resep ayam goreng,out_of_context,block
+cara bikin website,out_of_context,block
+lowongan kerja terbaru,out_of_context,block
+tips investasi,out_of_context,block
+cara belajar cepat,out_of_context,block
+apa itu bitcoin,out_of_context,block
+cara edit video,out_of_context,block
+laptop terbaik 2025,out_of_context,block
+cara daftar kuliah,out_of_context,block
+tips sukses bisnis,out_of_context,block
+apa itu AI,out_of_context,block
+cara install aplikasi,out_of_context,block
+game populer sekarang,out_of_context,block
+itu sebenarnya gimana?,ambigu,clarify
+maksud kalimat ini apa?,ambigu,clarify
+bisa kasih penjelasan?,ambigu,clarify
+saya masih kurang paham,ambigu,clarify
+apa arti dari ini?,ambigu,clarify
+tolong jelaskan maksudnya,ambigu,clarify
+ini penjelasannya bagaimana?,ambigu,clarify
+apa inti pembahasannya?,ambigu,clarify
+saya bingung maksudnya,ambigu,clarify
+boleh dijelaskan ulang?,ambigu,clarify
+apa maksud kalimat tadi?,ambigu,clarify
+bisa diperinci?,ambigu,clarify
+penjelasannya kurang jelas,ambigu,clarify
+itu maksudnya ke mana?,ambigu,clarify
+apa tujuan dari ini?,ambigu,clarify
+saya tidak menangkap maksudnya,ambigu,clarify
+bisa dibuat lebih sederhana?,ambigu,clarify
+tolong jelaskan secara mudah,ambigu,clarify
+apa yang ingin disampaikan?,ambigu,clarify
+itu artinya bagaimana?,ambigu,clarify
+mohon penjelasan tambahan,ambigu,clarify
+bisa dijelaskan pakai contoh?,ambigu,clarify
+apa konteks dari kalimat itu?,ambigu,clarify
+maksud pembicaraan ini apa?,ambigu,clarify
+penjelasan sebelumnya kurang paham,ambigu,clarify
+lu nyebelin banget,toxic,block
+dasar ga becus,toxic,block
+otak udang,toxic,block
+lu bikin rusuh,toxic,block
+ga jelas banget orang,toxic,block
+parah banget lu,toxic,block
+lu ngeselin,toxic,block
+gak mutu,toxic,block
+lu sampah masyarakat,toxic,block
+nyusahin aja,toxic,block
+lu bikin masalah,toxic,block
+ga ada gunanya,toxic,block
+orang kayak gini bikin emosi,toxic,block
+tololnya kebangetan,toxic,block
+lu ga berguna,toxic,block
+malas banget sih,toxic,block
+lu bikin kacau,toxic,block
+dasar bebal,toxic,block
+lu ga mikir,toxic,block
+kacau banget,toxic,block
+ga punya otak,toxic,block
+bikin jengkel,toxic,block
+lu parah,toxic,block
+ga ada kualitas,toxic,block
+memalukan banget,toxic,block
+agama itu cuma ilusi,provokatif,block
+alquran tidak masuk akal,provokatif,block
+agama itu manipulasi,provokatif,block
+buat apa percaya kitab,provokatif,block
+agama hanya cerita lama,provokatif,block
+alquran tidak ilmiah,provokatif,block
+agama itu rekayasa,provokatif,block
+tidak ada gunanya beragama,provokatif,block
+agama bikin konflik dunia,provokatif,block
+alquran tidak sesuai zaman,provokatif,block
+agama itu hanya doktrin,provokatif,block
+agama tidak rasional,provokatif,block
+alquran cuma mitos lama,provokatif,block
+agama hanya pengaruh budaya,provokatif,block
+tidak perlu agama,provokatif,block
+agama itu dibuat manusia,provokatif,block
+alquran tidak bisa dipercaya,provokatif,block
+agama hanya aturan kuno,provokatif,block
+buat apa ikut agama,provokatif,block
+agama tidak penting dalam hidup,provokatif,block
+alquran tidak valid,provokatif,block
+agama itu hanya kebiasaan,provokatif,block
+tidak ada manfaat agama,provokatif,block
+agama bikin manusia lemah,provokatif,block
+alquran hanya cerita fiksi,provokatif,block
+berapa harga iphone sekarang?,out_of_context,block
+cara memperbaiki motor,out_of_context,block
+jadwal konser musik,out_of_context,block
+rekomendasi film horor,out_of_context,block
+cara belajar gitar,out_of_context,block
+apa itu saham,out_of_context,block
+cara membuat kopi,out_of_context,block
+tips kesehatan tubuh,out_of_context,block
+resep nasi goreng,out_of_context,block
+cara edit foto,out_of_context,block
+apa itu blockchain,out_of_context,block
+tips menabung,out_of_context,block
+cara membuat akun gmail,out_of_context,block
+jadwal kereta hari ini,out_of_context,block
+cara bermain sepak bola,out_of_context,block
+tips menjaga kulit,out_of_context,block
+cara membuat aplikasi,out_of_context,block
+rekomendasi anime,out_of_context,block
+apa itu startup,out_of_context,block
+cara membuat channel youtube,out_of_context,block
+tips sukses karir,out_of_context,block
+cara menggunakan excel,out_of_context,block
+apa itu machine learning,out_of_context,block
+cara membuat desain,out_of_context,block
+tips presentasi,out_of_context,block
